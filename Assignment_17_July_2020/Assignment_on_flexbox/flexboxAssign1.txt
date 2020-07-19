@@ -1,0 +1,9 @@
+ASSIGNMENT ON FLEXBOX-
+a)Using the given html page we have to create a html page  named flexboxAssign1.html
+b)Then we have to create two external css files named  as main.css and flexstyle.css and both css files are linked with flexboxAssign1.html using the link tag.
+c)Colours used are as below 
+   #772953 
+   #e95420 
+   #fff 
+   rgba(255, 255, 255, 0.15) 
+   rgba(255, 255, 255, 0.25) 

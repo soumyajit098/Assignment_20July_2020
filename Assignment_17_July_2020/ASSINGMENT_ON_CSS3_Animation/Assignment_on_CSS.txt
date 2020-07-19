@@ -1,0 +1,4 @@
+ASSINGMENT ON CSS/CSS3 Animation-
+a)We have to show 2D Transition & Transform
+b)Name of the html file is index.html
+c)style.css is the css file which is linked with index.html file and then we have to perform the animation.

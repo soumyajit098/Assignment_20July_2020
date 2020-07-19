@@ -1,0 +1,22 @@
+#header,#footer{
+    display: block;
+    text-align: center;
+    
+    
+}
+#main{
+    display: flex;
+}
+.container #secondary{
+    width: min-content;
+    order: 1;
+}
+.container #tertiary{
+    width: min-content;
+    order: 3;
+
+}
+#main #content{
+    order: 2;
+    
+}
